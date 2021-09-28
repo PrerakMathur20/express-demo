@@ -50,7 +50,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/PrerakMathur20/node-js
+    $ git clone https://github.com/PrerakMathur20/express-demo/
     $ cd node-js
     $ npm install
 
